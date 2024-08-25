@@ -1,0 +1,1380 @@
+[
+  {
+    "_id": 1,
+    "flowers": [
+      {
+        "name": "Adenium",
+        "image": "https://cdn.pixabay.com/photo/2023/09/24/15/40/adenium-8273197_640.jpg",
+        "details": [
+          {
+            "image": "https://m.media-amazon.com/images/I/61F9xK7csfL._AC_UF1000,1000_QL80_.jpg",
+            "name": "Adenium Flower Fairy",
+            "price": "$15.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLKflRZBhoe5m3NQiJSzB7w2TbPVB8qBRf7Q&s",
+            "name": "Adenium Light of Sun and Moon",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://plantparadise.in/cdn/shop/products/Adenium_Obesum_Dark_Red.jpg?v=1691200614",
+            "name": "Adenium Red",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/closer-capture-adenium-obesum-flowers-600nw-2476419013.jpg",
+            "name": "Adenium White",
+            "price": "$22.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "African Violet",
+        "image": "https://www.shutterstock.com/image-photo/african-violet-flowers-saintpaulia-closeup-600nw-2294441769.jpg",
+        "details": [
+          {
+            "image": "https://ipm.missouri.edu/meg/thumbnails/A.violet2.pixabay.jpg",
+            "name": "African Violet Purple",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAmErpyKZSzB_YnRbMI_VGyd1EyTS1wwXZA&s",
+            "name": "African Violet Pink",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/blossoming-deep-blue-purple-colored-600nw-2104532234.jpg",
+            "name": "African Violet Blue",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://m.media-amazon.com/images/I/51K59pnwzUL.jpg",
+            "name": "African Violet White",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Amaryllis",
+        "image": "https://www.gardeners.com/globalassets/articles/gardening/2022content/5410-amaryllis-care.jpg",
+        "details": [
+          {
+            "image": "https://assets.highcountrygardens.com/media/catalog/product/v/i/visi02685-red-lion-amaryllis_1.jpg?quality=85&fit=bounds&height=&width=256&auto=webp&format=pjpg",
+            "name": "Amaryllis Red Lion",
+            "price": "$25.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://cdn11.bigcommerce.com/s-1b9100svju/images/stencil/1280x1280/products/1111/5137/Peruvian_Amaryllis_1280_x_1280_px_5__78526.1679596770.jpg?c=1",
+            "name": "Amaryllis Pink Surprise",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.easytogrowbulbs.com/cdn/shop/products/Amaryllis_White_Christmas.IBULB.jpg?v=1584997449",
+            "name": "Amaryllis White Christmas",
+            "price": "$24.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5vXjGiGcVrxxvjh32zR4163iGcrwH3Mj9A&s",
+            "name": "Amaryllis Orange Sovereign",
+            "price": "$26.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Begonia",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAozG5znGlrN_T3Rm0YxAX8NoXmnY2UD2Fx4K0SweAVLASFvkJ5jetRiP_qUFBQueJIQ&usqp=CAU",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt8K8mrPEP-OBehrHmGvu6X1PObhew-AvwYh-ZCUJJkJtPNJQI9Sp8Ir1vAhrRXpj3vmM&usqp=CAU",
+            "name": "Begonia Rex",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1351083908/photo/begonia-cucullata-semperflorens-wax-begonia-pink-booming-flowers-in-the-garden.jpg?s=612x612&w=0&k=20&c=d1aiTpZLfy2vcClz0rVH5eX6q5qEaWIR4afz8Lpy9jY=",
+            "name": "Begonia Wax",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/pink-begonia-picotee-lace-tuberous-260nw-1964953231.jpg",
+            "name": "Begonia Tuberous",
+            "price": "$17.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/closeup-view-blooming-angel-wing-600nw-2329947875.jpg",
+            "name": "Begonia Cane",
+            "price": "$19.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Bird of Paradise",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmsEaDcXO9H_yAYwf2vlYGO9AWcB2UZZ4ftA&s",
+        "details": [
+          {
+            "image": "https://images.immediate.co.uk/production/volatile/sites/10/2021/04/2048x1365-Strelitzia-reginae-GettyImages-1270647929-4f76714.jpg",
+            "name": "Bird of Paradise Orange",
+            "price": "$30.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1323341620/photo/white-strelitzia-nicabi-flower-blossom.jpg?s=612x612&w=0&k=20&c=Io1rSZmmcK2-nlPKNYtmR0ca3W_vlpvzCb5wZ4PYtVM=",
+            "name": "Bird of Paradise White",
+            "price": "$35.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://img.ehowcdn.com/375/cme-data/getty%2F923c294af9ec4244b28d7742b3383720.jpg",
+            "name": "Bird of Paradise Blue",
+            "price": "$32.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1712772543203-484125e5a67f?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJpcmQlMjBvZiUyMHBhcmFkaXNlJTIwZmxvd2VyfGVufDB8fDB8fHww",
+            "name": "Bird of Paradise Yellow",
+            "price": "$34.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Carnation",
+        "image": "https://cdn.pixabay.com/photo/2016/04/12/18/19/carnation-1325012_1280.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwLONtIiktPHN3AwppbOiYs1IFoeZyY1JrQA&s",
+            "name": "Carnation Red",
+            "price": "$5.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://static.vecteezy.com/system/resources/previews/039/376/006/non_2x/ai-generated-of-white-carnations-flowers-on-black-background-photo.jpg",
+            "name": "Carnation White",
+            "price": "$5.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/04/12/18/19/carnation-1325012_1280.jpg",
+            "name": "Carnation Pink",
+            "price": "$6.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://i.pinimg.com/originals/fe/91/03/fe910313102e877ffe09e98ffcbeeb3c.jpg",
+            "name": "Carnation Yellow",
+            "price": "$6.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Chrysanthemum",
+        "image": "https://cdn.pixabay.com/photo/2019/10/23/16/30/chrysanthemum-4572108_1280.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTglrj1IB8qABfxh1eNZG2klf8pWYf4TbtFEw&s",
+            "name": "Chrysanthemum Yellow",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSusOwfw9XGhavVz7AdlZG7ybykUCFJ_8fZGQ&s",
+            "name": "Chrysanthemum White",
+            "price": "$7.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOdLoIcWLstw01_cihFDBOx2SqhCG4r4CMFg&s",
+            "name": "Chrysanthemum Purple",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/close-photo-bunch-dark-pink-600nw-2357911213.jpg",
+            "name": "Chrysanthemum Red",
+            "price": "$8.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Cyclamen",
+        "image": "https://www.shutterstock.com/image-photo/bright-pink-white-cyclamen-flowers-260nw-1453708289.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFfSNF4NNNIZt0Ik_gs1XnOGXxMoIT5_MyzQ&s",
+            "name": "Cyclamen Pink",
+            "price": "$9.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBPQEa2o4e9VHDfwPQatXXsnHCeh0mtneTpQ&s",
+            "name": "Cyclamen Red",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1295294560/photo/white-flower.jpg?s=612x612&w=0&k=20&c=yoWX99JB-ctPQglV5uB21tJ52X4tQrwlCdJfmZEyzZE=",
+            "name": "Cyclamen White",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeJHDdO085Yz4mCR1xXqNa_PvgKINTXIEXNg&s",
+            "name": "Cyclamen Purple",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Daffodil",
+        "image": "https://cdn.pixabay.com/photo/2022/04/14/00/07/flowers-7131334_640.jpg",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1176574947/photo/yellow-daffodil-flowers.jpg?s=612x612&w=0&k=20&c=X0MEY3rHSB6Yh2tG-lx8tmzQcfwBV9n4iWUyugkxRiw=",
+            "name": "Daffodil Yellow",
+            "price": "$6.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/f0c3d6f1-2462-4151-8e8e-3659005f6c69-12014d8.jpg?quality=90&resize=940,627",
+            "name": "Daffodil White",
+            "price": "$6.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/wonderful-close-macro-image-narcissus-260nw-2267235863.jpg",
+            "name": "Daffodil Orange",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://i.pinimg.com/originals/60/e9/cd/60e9cd60b6252204d34c37cbe866ecbd.jpg",
+            "name": "Daffodil Pink",
+            "price": "$7.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Dahlia",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWoNQ41NMJxRGp9Qz-rlwCEppm8ExpLJtem8EzXSW49GKrGFzWKJKJJJ8xq1p9VtD10U8&usqp=CAU",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/red-dahlia-flower-close-image-260nw-1067433788.jpg",
+            "name": "Dahlia Red",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/garden-dahlias-dahlia-pinnata-bloom-600nw-2397990353.jpg",
+            "name": "Dahlia Pink",
+            "price": "$8.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLmWqg7rXIzZNEfuTx4qJg9BjMDswtoy5TFQ&s",
+            "name": "Dahlia White",
+            "price": "$9.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/beautiful-yellow-dahlia-flower-garden-260nw-2244522277.jpg",
+            "name": "Dahlia Yellow",
+            "price": "$9.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Edelweiss",
+        "image": "https://www.shutterstock.com/image-photo/very-rare-edelweiss-mountain-flower-260nw-2421635037.jpg",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/three-individuals-very-rare-edelweiss-260nw-1950088558.jpg",
+            "name": "Edelweiss Mountain",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDuqsC212TI_pO0Kv3KX4x_vYpuOxpJAnJ4g&s",
+            "name": "Edelweiss Alpine",
+            "price": "$14.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://img.freepik.com/premium-photo/edelweiss-alpine-star-flower-dolomites_850000-1670.jpg",
+            "name": "Edelweiss Star",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcriB6jv6UlUHuBRqcc04bEo0Pce3K7fjxg&s",
+            "name": "Edelweiss Snow",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Eustoma",
+        "image": "https://cdn.pixabay.com/photo/2020/03/14/10/41/lisianthus-4930213_640.jpg",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1220104759/photo/violet-lisianthus-flower-in-a-garden.jpg?s=612x612&w=0&k=20&c=MG17iYmBgKs4-OJ3eXQm6uOd3FCYppNHhkSv7ESDPG4=",
+            "name": "Eustoma Blue",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGU_pD66aCGJeOYT8vak0GbouBb4wT74kSOg&s",
+            "name": "Eustoma Pink",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/green-lisianthus-flower-bouquet-on-260nw-1622897626.jpg",
+            "name": "Eustoma White",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1436645693/photo/close-up-of-lisianthus-flowers-or-eustoma-plants-blossom-in-flower-garden.jpg?s=612x612&w=0&k=20&c=0dE_Oy0jbN_Gjvt_bs3IpwfLCTLuj_iy2JZic96oSfE=",
+            "name": "Eustoma Purple",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Freesia",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqRTVj3i9D203THUNsngvErRvADR7xicDaNYVF5Gh3UfyJF_FxLoIgNcMBO8GAX6JvYMA&usqp=CAU",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtY37_-pawvjogfwmUm9e7o5OPp_CPPPahwA&s",
+            "name": "Freesia Yellow",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://st.depositphotos.com/1177973/2018/i/450/depositphotos_20184087-stock-photo-beautiful-freesia-flower-isolated-on.jpg",
+            "name": "Freesia Pink",
+            "price": "$7.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.easytogrowbulbs.com/cdn/shop/products/Freesia_Single_White.PXHERE.jpg?v=1571439561&width=1946",
+            "name": "Freesia White",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://fiftyflowers.com/cdn/shop/files/lavender-freesia-flower-wholesale-flowers-close-up_4ccbe.webp?v=1694808338&width=800",
+            "name": "Freesia Purples",
+            "price": "$8.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Gardenia",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREW_tB3F10Tja7vqVzr27OH9IITvHOQdjjyDB_3oRm0Cfp1Zr1ksSwOhiLoGv-Jz_oBHE&usqp=CAU",
+        "details": [
+          {
+            "image": "https://www.gardendesign.com/pictures/images/900x705Max/site_3/steady-as-she-goes-gardenia-gardenia-jasminoides-proven-winners_16970.jpg",
+            "name": "Gardenia White",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSahciy7R2qjM8-N6WlrLpSaCw76rnYYBOT7w&s",
+            "name": "Gardenia Pink",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://m.media-amazon.com/images/I/51LKOIPIHwL._AC_UF1000,1000_QL80_.jpg",
+            "name": "Gardenia Yellow",
+            "price": "$24.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI-ULTLGNsk6K3g12Pu3iww-10cB2FbvrDNg&s",
+            "name": "Gardenia Red",
+            "price": "$26.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Geranium",
+        "image": "https://media.istockphoto.com/id/599751224/photo/red-garden-geranium-flowers-in-pot.jpg?s=612x612&w=0&k=20&c=R3FldsJr6O45zErYgs5IJv0tq9zJ_ualAcwAiS9LbmY=",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/927810256/photo/red-geranium-flowers-in-sunny-garden-close-up.jpg?s=612x612&w=0&k=20&c=u5AQElUaaeq2Fhmy3_Lv1fBWkjUQp3VRlAMDpS5Rqdk=",
+            "name": "Geranium Red",
+            "price": "$5.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/497653236/photo/white-geranium-flowers.jpg?s=612x612&w=0&k=20&c=7xxaDyNmNU9uQtBci6A4f93hn8AWTanxROSdCjsXV04=",
+            "name": "Geranium White",
+            "price": "$5.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://t3.ftcdn.net/jpg/02/13/93/96/360_F_213939613_kWj1ppuuO3tTgpM1T4TYh4JvrckYxaJY.jpg",
+            "name": "Geranium Pink",
+            "price": "$6.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8GiF1OOdLkKdq_ZHLg3Fg0FrHHctDCE3IUA&s",
+            "name": "Geranium Purple",
+            "price": "$6.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Gladiolus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDv_3VLtuJXHRs4j0oIgi1Z8XmYci-ljdwA5Hvn-XhaybmcXrvJQMG1NG1VP1-OWLaOxQ&usqp=CAU",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/red-gladioli-summer-garden-bouquet-260nw-2349223071.jpg",
+            "name": "Gladiolus Red",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/selective-focus-pastel-orange-pink-260nw-2017527674.jpg",
+            "name": "Gladiolus Pink",
+            "price": "$7.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://assets.highcountrygardens.com/media/catalog/product/g/l/gladiolus_white_prosperity_cropped.jpg",
+            "name": "Gladiolus White",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.hollandbulbfarms.com/Shared/Images/Product/Yellow-Gladiolus-Value-Bag/76150-yellow-gladiolus.jpg",
+            "name": "Gladiolus Yellow",
+            "price": "$8.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Hibiscus",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc8q0ne0zl7_X5Yq5nVFXCGYeJXB8udOCdPIYP9Vzh7teLvHy7KeSTSY6K5VghXDehvI&usqp=CAU",
+        "details": [
+          {
+            "image": "https://thumbs.dreamstime.com/b/hibiscus-flower-red-black-background-47405722.jpg",
+            "name": "Hibiscus Red",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.thespruce.com/thmb/VZiD61CigucQyJ5IJVImYJMBEdM=/3713x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-146902451-2247b4fa8f75439d9350e423865183e6.jpg",
+            "name": "Hibiscus Yellow",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://plus.unsplash.com/premium_photo-1710752929757-b3d3f51731ce?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aGliaXNjdXN8ZW58MHx8MHx8fDA%3D",
+            "name": "Hibiscus Pink",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/471609349/photo/orange-hibiscus-flower.jpg?s=612x612&w=0&k=20&c=0IZRHO9z8Tk305R0fC3YZ71mZvZlhyP6FlpyJ-aqXCU=",
+            "name": "Hibiscus Orange",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Hyacinth",
+        "image": "https://media.istockphoto.com/id/471792331/photo/multicolored-hyacinths.jpg?s=612x612&w=0&k=20&c=affXyqMStdz1Fae_mc-GENi8nbnhc2U4pkSjxr2XeX8=",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/hyacinthoides-blue-jacket-lisse-holland-260nw-1046539720.jpg",
+            "name": "Hyacinth Blue",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJzFoS71Zw1i240wyVf3fhF0j_-K7ZwDR3_w&s",
+            "name": "Hyacinth Pink",
+            "price": "$16.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1065878918/photo/hyacinth-flowers-close-up.jpg?s=612x612&w=0&k=20&c=NaYG9GV8j8rBliIQyeZvLxtTVghYSZypGY08koG7L80=",
+            "name": "Hyacinth White",
+            "price": "$17.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://t4.ftcdn.net/jpg/04/94/29/35/360_F_494293545_ZLrk7hTh4hoBvlJrNq0PnaI0qmRrOR82.jpg",
+            "name": "Hyacinth Purple",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Iris",
+        "image": "https://media.istockphoto.com/id/1157759107/photo/purple-iris-flowers.webp?b=1&s=170667a&w=0&k=20&c=AVLOBEWeRRWgm3X6F-omngfKqVdzEXzLbIeQfCO4ASw=",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/527192561/photo/iris-blue-flower.jpg?s=612x612&w=0&k=20&c=YA6UkVDHxrP63hnGPiQUEGOmPKacWQgLVHZqKsCHe2M=",
+            "name": "Iris Blue",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/yellow-iris-flowers-beautiful-natural-260nw-1799658805.jpg",
+            "name": "Iris Yellow",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://cdn.mos.cms.futurecdn.net/cAG6aYiVDmgUyr2mTepoMe.jpg",
+            "name": "Iris White",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlm5nbYoAoYmKlXxdlYmy4LRJ5XxPbk62CmQ&s",
+            "name": "Iris Purple",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Jasmine",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-_THtCt7wE-ffsnF5l7ZcEr0kxl5Du_pTqBxjAc5FZhYQvnCrGeZjohljz9QLhfh7S4&usqp=CAU",
+        "details": [
+          {
+            "image": "https://i.pinimg.com/originals/a2/83/be/a283be0667282cc6627ebf51d0e2a118.jpg",
+            "name": "Jasmine White",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://t3.ftcdn.net/jpg/01/63/17/14/360_F_163171476_o7pSLeiDeBJi58qzg8ZM18JInr8bY4UD.jpg",
+            "name": "Jasmine Pink",
+            "price": "$16.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1370026593/photo/yellow-jessamine-in-bloom.jpg?s=612x612&w=0&k=20&c=B6EHLNQYawOLtoiq64v03YLKd2VXEYIl6GtQaYBP8jU=",
+            "name": "Jasmine Yellow",
+            "price": "$17.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1491153889/photo/ixora-chinensis-lamk-ixora-flower-red-spike-flower-king-ixora.jpg?s=612x612&w=0&k=20&c=KWz9BebouNBumH9zlPc579fkUoA1hsL_soKFCOcOkBw=",
+            "name": "Jasmine Red",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Lily",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPc7EgGGcO-5swl1aSyVuIH093VDbcpiE2Qw&s",
+        "details": [
+          {
+            "image": "https://gardenerspath.com/wp-content/uploads/2020/03/Single-White-Lily-Close-Up.jpg",
+            "name": "Lily White",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/beautiful-pink-white-flower-oriental-260nw-1623614428.jpg",
+            "name": "Lily Pink",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://i.pinimg.com/736x/62/04/8c/62048c95a913fc5e3f612279dc780494.jpg",
+            "name": "Lily Yellow",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://i.pinimg.com/originals/ee/74/74/ee747467e9ddb36534d1c1739f661b08.jpg",
+            "name": "Lily Red",
+            "price": "$31.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Magnolia",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1656263038.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbJ33VSK_LjVwsGAXPN0RkC9sxtv75AMWPvw&s",
+            "name": "Magnolia White",
+            "price": "$45.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.southernliving.com/thmb/GdG8-MpXXSTVEhkhQrViYxg7ZRA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-511520684-1-71d0a72cf50e4e4481cdc90bfc937f0a.jpg",
+            "name": "Magnolia Pink",
+            "price": "$16.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://images.squarespace-cdn.com/content/v1/5cc11f20e5f7d153e6fe3188/1618600861232-I9FJK18WXMPNC39IBXV3/4-16%2Bw-Bunting%2BMagnolia%2BButterflies%2B4-14-11_LS%2B%25286%2529.jpg",
+            "name": "Magnolia Yellow",
+            "price": "$17.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_opItuVbTRmn1hxl5rSJ2DuWbCun71v1yAg&s",
+            "name": "Magnolia Red",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Marigold",
+        "image": "https://images.unsplash.com/photo-1620005807545-2e08850d6591?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaWdvbGQlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/yellow-marigolds-flower-tagetes-erecta-260nw-318622541.jpg",
+            "name": "Marigold Yellow",
+            "price": "$5.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://images.unsplash.com/photo-1620005807545-2e08850d6591?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWFyaWdvbGQlMjBmbG93ZXJ8ZW58MHx8MHx8fDA%3D",
+            "name": "Marigold Orange",
+            "price": "$5.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://t3.ftcdn.net/jpg/04/92/43/20/360_F_492432006_G3Igi0DTmUn8R1dLGIYv4bBAuEibeGLH.jpg",
+            "name": "Marigold Red",
+            "price": "$6.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://4.imimg.com/data4/AT/YE/MY-36181633/white-marigold-flowers-500x500.jpg",
+            "name": "Marigold White",
+            "price": "$6.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Narcissus",
+        "image": "https://www.shutterstock.com/image-photo/wonderful-close-macro-image-narcissus-260nw-2267235863.jpg",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1176574947/photo/yellow-daffodil-flowers.jpg?s=612x612&w=0&k=20&c=X0MEY3rHSB6Yh2tG-lx8tmzQcfwBV9n4iWUyugkxRiw=",
+            "name": "Narcissus Yellow",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/02/f0c3d6f1-2462-4151-8e8e-3659005f6c69-12014d8.jpg?quality=90&resize=940,627",
+            "name": "Narcissus White",
+            "price": "$7.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://i.pinimg.com/originals/c2/c0/5c/c2c05c3c5cf876e91783a5cbb1ec6aec.jpg",
+            "name": "Narcissus Pink",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/wonderful-close-macro-image-narcissus-260nw-2267235863.jpg",
+            "name": "Narcissus Orange",
+            "price": "$8.50",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Orchid",
+        "image": "https://images.pexels.com/photos/66181/pexels-photo-66181.jpeg?cs=srgb&dl=pexels-wolfgang-14252-66181.jpg&fm=jpg",
+        "details": [
+          {
+            "image": "https://i.pinimg.com/originals/bf/a4/cb/bfa4cb9a1a8ddc1fd51db6fa5f347a2d.jpg",
+            "name": "Orchid White",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2023/12/26/11/59/orchid-8470045_1280.jpg",
+            "name": "Orchid Pink",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/phalaenopsis-orchids-moth-they-used-260nw-509155432.jpg",
+            "name": "Orchid Yellow",
+            "price": "$24.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/orchid-flower-purple-macro-on-260nw-1364765504.jpg",
+            "name": "Orchid Purple",
+            "price": "$26.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 17, 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 2,
+    "gardenDecor": [
+      {
+        "name": "Garden Tools",
+        "image": "https://t4.ftcdn.net/jpg/01/15/11/19/360_F_115111910_zuJsuaSUrgEU6iQV89di86x9gyMOXP2M.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLuSQfZbb8KdKsyP5sN0r7it3ZAjQQlNXUng&s",
+            "name": "Hand Trowel",
+            "price": "$98.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmr2aNf9qLClTh4dqXVXi_YEHK4M8ZqKujg&s",
+            "name": "Garden Shears",
+            "price": "$55.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://www.faithfulltools.com/images/xxlarge/FAIESSGRE.jpg",
+            "name": "Soil Rake",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Pot Stands",
+        "image": "https://ouchcart.com/cdn/shop/products/266...jpg?v=1634613595&width=1024",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/decorative-wrought-iron-flower-stand-260nw-1768798946.jpg",
+            "name": "Iron Pot Stand",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://www.urbanplant.in/cdn/shop/files/Primary1copy_74d7800b-335a-4dc8-a4e0-7a9bbfe03d65.webp?v=1692982426",
+            "name": "Wooden Pot Stand",
+            "price": "$100.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://i5.walmartimages.com/asr/ccce0f1a-1131-4433-9977-737f888e39e6.96054bb5b9188b9dd8fac03e5485e670.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF",
+            "name": "Metal Pot Stand",
+            "price": "$280.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Garden Statues",
+        "image": "https://www.shutterstock.com/image-photo/cupid-statue-decorated-botany-garden-260nw-1801015987.jpg",
+        "details": [
+          {
+            "image": "https://t3.ftcdn.net/jpg/04/94/74/08/360_F_494740887_imJ080P7oryzSaOi82pRXeDmArCd2cL6.jpg",
+            "name": "Gnome Statue",
+            "price": "$300.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ba328089-99c4-43b5-b2e7-d419fa538014._SL480_.jpg",
+            "name": "Fairy Statue",
+            "price": "$400.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Garden Lighting",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoiyLwlJSjaBaY6-pYcqCJ1iPpyyMunkwEOA&s",
+        "details": [
+          {
+            "image": "https://www.treehugger.com/thmb/4yxv7u2AV2XtPr0Gb9WI63Imjpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/solar-battery-and-lantern-in-park-close-up-side-view--1278723493-62ab2d005551488a9deba315f4e5b91b.jpg",
+            "name": "Solar Lights",
+            "price": "$625.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuoQmz8IYWAF5M2JBMMsWb78H2itfyLuwqMQ&s",
+            "name": "String Lights",
+            "price": "$530.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-aRshSrK-rnkAe4juVd4ZstczIiFLr3Q5Ig&s",
+            "name": "Lantern Lights",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 3,
+    "gift": [
+      {
+        "name": "Anniversary",
+        "image": "https://i.pinimg.com/736x/14/26/a0/1426a09fad020ecfad165b972b949f9b.jpg",
+        "details": [
+          {
+            "image": "https://cdn.mos.cms.futurecdn.net/qYNPupRnspGWPF4886Z7hB.jpg",
+            "name": "Peace Lily",
+            "price": "$25.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 20, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8MvDhws3Yq8Qfcfm9mSpq8H9Lk0Tb7S7enQ&s",
+            "name": "Orchid",
+            "price": "$40.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 24, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Birthday",
+        "image": "https://t3.ftcdn.net/jpg/04/46/07/94/360_F_446079451_mLbLQ10LOQDbGkHoVkoXTr0kKrbbqOSc.jpg",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1316664758/photo/decorative-flower.jpg?s=612x612&w=0&k=20&c=2kMkXI_Pm5syHVy1hvFH68flTz9oinm2iu2mgQV9y08=",
+            "name": "Snake Plant",
+            "price": "$30.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 21, 2024"
+          },
+          {
+            "image": "https://t4.ftcdn.net/jpg/07/14/11/35/360_F_714113535_qsVq3LgNtSiTgMviUeEDtDwynZLa6hey.jpg",
+            "name": "Lucky Bamboo",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 25, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Farewell",
+        "image": "https://c8.alamy.com/comp/2PH95N8/spring-flower-decoration-label-with-english-text-farewell-2PH95N8.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3GXf5_ZrHgCgJfb2J6cZSekxAfHOkYph8MQ&s",
+            "name": "Succulent Garden",
+            "price": "$35.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 22, 2024"
+          },
+          {
+            "image": "https://cdn.mos.cms.futurecdn.net/qYNPupRnspGWPF4886Z7hB.jpg",
+            "name": "Peace Lily",
+            "price": "$25.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 20, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Marriage",
+        "image": "https://images.unsplash.com/photo-1521520368710-3ab197656d60?fm=jpg&w=3000&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8d2VkZGluZyUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D",
+        "details": [
+          {
+            "image": "https://www.bonsaiempire.com/images/videos/misc-flowering-bonsai.jpg",
+            "name": "Bonsai Tree",
+            "price": "$45.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 23, 2024"
+          },
+          {
+            "image": "https://www.thespruce.com/thmb/DkT3ceG_yidt0gH9SYX_OJhg1cE=/3845x0/filters:no_upscale():max_bytes(150000):strip_icc()/orchid-colors-7372315_00_hero-782fedee761d4cbeb743d0546f3e4129.jpg",
+            "name": "Orchid",
+            "price": "$40.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 24, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Congratulations",
+        "image": "https://c8.alamy.com/comp/DW85NG/congratulations-card-with-pink-roses-bouquet-with-glitter-DW85NG.jpg",
+        "details": [
+          {
+            "image": "https://l450v.alamy.com/450v/dw8605/congratulations-card-with-pink-roses-isolated-on-white-dw8605.jpg",
+            "name": "Pink Rose",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 26, 2024"
+          },
+          {
+            "image": "https://fyf.tac-cdn.net/images/products/small/TBC03-2.jpg?auto=webp&quality=60&width=650",
+            "name": "Various Flowers",
+            "price": "$30.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "July 21, 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 4,
+    "pots": [
+      {
+        "name": "Ceramic Pots",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbaYV6BN9g68rfkt_UX3Zw0ZdwbKOv82GBdQ&s",
+        "details": [
+          {
+            "image": "https://m.media-amazon.com/images/I/61WHxk89suL._AC_UF894,1000_QL80_.jpg",
+            "name": "Blue Ceramic Pot",
+            "price": "$25.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://masonhome.in/cdn/shop/products/IMG_0054.jpg?v=1582206465&width=1500",
+            "name": "White Ceramic Pot",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://i.etsystatic.com/11562651/r/il/c429c7/2664779854/il_fullxfull.2664779854_7q50.jpg",
+            "name": "Green Ceramic Pot",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Plastic Pots",
+        "image": "https://www.urbanplant.in/cdn/shop/files/PrimaryMulti11copy.webp?v=1684745011",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1245029866/photo/black-plastic-flower-pots.jpg?s=612x612&w=0&k=20&c=ixPEQ_KeiItDZLw3LcCSO7EhRICap1uBEeUtm-2ZLpM=",
+            "name": "Black Plastic Pot",
+            "price": "$610.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSATR_pHTN0MIoi75mYUpww41-hpEOejksSFQ&s",
+            "name": "Red Plastic Pot",
+            "price": "$575.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnBJAvDilx5rMTtdL_-LvHgXEmtc5rjDpXYg&s",
+            "name": "Blue Plastic Pot",
+            "price": "$711.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Hexa Pots",
+        "image": "https://m.media-amazon.com/images/I/61wwwLaHhVL.jpg",
+        "details": [
+          {
+            "image": "https://m.media-amazon.com/images/I/61snJpL+U7L.jpg",
+            "name": "White Hexa Pot",
+            "price": "$815.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-illustration/3d-iilustration-black-cauldron-isolated-600nw-2331075115.jpg",
+            "name": "Black Hexa Pot",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/many-different-artificial-plants-flower-260nw-2330171389.jpg",
+            "name": "Grey Hexa Pot",
+            "price": "$917.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 5,
+    "season": [
+      {
+        "name": "Spring Flowers",
+        "image": "https://images.pexels.com/photos/68507/spring-flowers-flowers-collage-floral-68507.jpeg?cs=srgb&dl=pexels-pixabay-68507.jpg&fm=jpg",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1418276634/photo/close-up-colorful-tulip-flowers-in-a-field.jpg?s=612x612&w=0&k=20&c=s7ijJ5pQ9MqSG668MQm7ocz6jOLXF_US3_YziEKKiCE=",
+            "name": "Tulip",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://media.istockphoto.com/id/1176574947/photo/yellow-daffodil-flowers.jpg?s=612x612&w=0&k=20&c=X0MEY3rHSB6Yh2tG-lx8tmzQcfwBV9n4iWUyugkxRiw=",
+            "name": "Daffodil",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://t3.ftcdn.net/jpg/05/77/23/02/360_F_577230212_7Y37rWBV8XWFyIZOiFVsLeisg6qL21rO.jpg",
+            "name": "Cherry Blossom",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Summer Flowers",
+        "image": "https://designerblooms.ca/cdn/shop/articles/summer_flowers_1200x1200.jpg?v=1689882475",
+        "details": [
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/28/23/24/sunflower-1627193_640.jpg",
+            "name": "Sunflower",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://t3.ftcdn.net/jpg/04/43/37/02/360_F_443370298_k0py4bupxi0HUX243GhK0L2pZQcMDSvH.jpg",
+            "name": "Lavender",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/09/03/18/42/dahlia-1642461_640.jpg",
+            "name": "Dahlia",
+            "price": "$16.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Autumn Flowers",
+        "image": "https://cache.desktopnexus.com/thumbseg/2410/2410809-bigthumbnail.jpg",
+        "details": [
+          {
+            "image": "https://cdn.britannica.com/09/174809-050-CA9F8F8C/daisy-mums-ray-flowers-disk-centre.jpg",
+            "name": "Chrysanthemum",
+            "price": "$14.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-zeM7kiYVfdWtofIlbfrzyCqkbMCm20bOg&s",
+            "name": "Aster",
+            "price": "$13.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_sd_r2kIMF-zcYp5Gjpv9eUg_SCPiSmg_YQ&s",
+            "name": "Marigold",
+            "price": "$11.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Winter Flowers",
+        "image": "https://t4.ftcdn.net/jpg/02/28/92/27/360_F_228922795_imisjqE7p4J2rHDqEPZQroW6l61IizQG.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWJbCyaAWpjlbg7qSw9p-KCsPJMQEwoExHQ&s",
+            "name": "Poinsettia",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmRNV5TXn1cTy9blpbAmHia7UY0A58WAx43g&s",
+            "name": "Camellia",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6lmyKNKGSitaDN132Ik4-32N9e3F0wYGlA&s",
+            "name": "Hellebore",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": 6,
+    "seeds": [
+      {
+        "name": "Vegetable Seeds",
+        "image": "https://media.istockphoto.com/id/637856490/photo/various-legumes.jpg?s=612x612&w=0&k=20&c=Zk7TiC0eMeNc9C2kfjBz9mMxt_qWppqITELmkaQ4Mrg=",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1132854763/photo/a-heap-of-quality-seeds-of-tomato-vegetable-for-your-beautiful-personal-garden-can-be-used.jpg?s=612x612&w=0&k=20&c=KGdAPmTgJaotX9kYvw_1lXWPHp456bzBFo_PTJ59brI=",
+            "name": "Tomato Seeds",
+            "price": "$5.00",
+            "add_to_cart": false,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/carrot-seeds-isolated-on-white-260nw-1884755695.jpg",
+            "name": "Carrot Seeds",
+            "price": "$4.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/pile-lettuce-seeds-isolated-on-260nw-2367895535.jpg",
+            "name": "Lettuce Seeds",
+            "price": "$3.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "March 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Flower Bulbs",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnM0E79dzdG7JXJ7D_vntF1u1vDOkmg6f1Ew&s",
+        "details": [
+          {
+            "image": "https://media.istockphoto.com/id/1365879708/photo/large-tulip-flower-bulbs-with-small-offset-bulbs.jpg?s=612x612&w=0&k=20&c=DST0txp_7c9F6Oqgb6gzdK97qTjO6hF--qzkFryrvao=",
+            "name": "Tulip Bulbs",
+            "price": "$15.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://www.shutterstock.com/image-photo/crocus-daffodil-bulbs-ready-autumn-600nw-2345372513.jpg",
+            "name": "Daffodil Bulbs",
+            "price": "$10.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvxsO7toLMzOwMjpSyu25BzWpjdqfV0d_A0A&s",
+            "name": "Hyacinth Bulbs",
+            "price": "$12.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "June 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Flower Seeds",
+        "image": "https://c8.alamy.com/comp/BKXJ78/selection-of-vegetable-and-flower-seeds-in-a-wooden-tray-flat-lay-BKXJ78.jpg",
+        "details": [
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbHuwt50-1q15CbYR9gUylViWAYdHieZL20Q&s",
+            "name": "Sunflower Seeds",
+            "price": "$8.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBRDHIJiNTAXg7N2rctIZkTg31_Qi79qzFIQ&s",
+            "name": "Lavender Seeds",
+            "price": "$6.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          },
+          {
+            "image": "https://c8.alamy.com/comp/BHJEMA/pile-of-french-marigold-seeds-BHJEMA.jpg",
+            "name": "Marigold Seeds",
+            "price": "$7.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "September 21, 2024"
+          }
+        ]
+      },
+      {
+        "name": "Forestry Seeds",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyQyVBlWfUuBs-bYuh8glETlbDyTe6w_MtoA&s",
+        "details": [
+          {
+            "image": "https://www.shutterstock.com/image-photo/bunch-mature-pine-seedlings-nuts-260nw-1034305597.jpg",
+            "name": "Pine Seeds",
+            "price": "$20.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://i0.wp.com/growingwithscience.com/acorns.jpg?resize=576%2C385",
+            "name": "Oak Seeds",
+            "price": "$22.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          },
+          {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPFQEcMFVb0fXxxSEae5Z_B7gzZ9tPwerxg&s",
+            "name": "Maple Seeds",
+            "price": "$18.00",
+            "add_to_cart": true,
+            "expected_dispatch_date": "December 21, 2024"
+          }
+        ]
+      }
+    ]
+  }
+]
