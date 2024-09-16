@@ -6,6 +6,8 @@ const router = express.Router();
 
 router.post("/plants", PlantControllers.createPlant);
 router.get("/plants", PlantControllers.getAllPlants);
-router.get("/plants", PlantControllers.getPlansByName);
+router.put("/plants/:id/details", PlantControllers.updatePlantDetails);
+router.delete("/plants/:id/details", PlantControllers.deletePlantDetails);
+router.get("/plants/:name", PlantControllers.getPlansByName);
 
-export const OrderRoutes = router;
+export const PlantsRoutes = router;

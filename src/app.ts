@@ -1,16 +1,15 @@
 import express, { Request, Response } from "express";
 import cors from "cors";
-import api from "./data/api.json";
+import { PlantsRoutes } from "./app/modules/Plants/plants.route";
 
 const app = express();
-const port = 3000;
 
+app.use(express.json());
 app.use(cors());
 
 app.get("/", (req: Request, res: Response) => {
   res.send("Hello World!");
 });
-app.get("/api/plants", (req: Request, res: Response) => {
-  res.send(api);
-});
+app.use("/api", PlantsRoutes);
+
 export default app;
