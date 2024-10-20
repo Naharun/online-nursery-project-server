@@ -1,6 +1,5 @@
 import { z } from "zod";
 
-// Define plant validation schema
 export const plantSchema = z.object({
   name: z.string(),
   image: z.string(),
@@ -9,14 +8,11 @@ export const plantSchema = z.object({
   add_to_cart: z.boolean(),
 });
 
-// Define category schema
 export const categorySchema = z.object({
   name: z.string(),
   image: z.string(),
-  details: z.array(plantSchema).nonempty(), // Ensure at least one plant is present
+  details: z.array(plantSchema).nonempty(),
 });
-
-// Define the schema for the createPlant request
 export const createPlantSchema = z.object({
   flowers: z.array(categorySchema).optional(),
   gardenDecor: z.array(categorySchema).optional(),

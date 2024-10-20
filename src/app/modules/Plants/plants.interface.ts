@@ -1,5 +1,5 @@
-// TPlant and TCategory remain unchanged
 export type TPlant = {
+  _id?: string;
   name: string;
   image: string;
   price: number;
@@ -10,10 +10,9 @@ export type TPlant = {
 export type TCategory = {
   name: string;
   image: string;
-  details: TPlant[];
+  details: TPlant[]; 
 };
 
-// Keep TApiData as a type
 export type TApiData = {
   flowers?: TCategory[];
   gardenDecor?: TCategory[];
@@ -24,8 +23,6 @@ export type TApiData = {
   otherCategories?: Record<string, TCategory[]>;
 };
 
-// Define IPlantDocument by combining TApiData and Document using the intersection operator (&)
 export interface IPlantDocument extends Document, TApiData {
   [x: string]: any;
-  // No need to add additional fields as TApiData covers them
 }
